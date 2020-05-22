@@ -1,1 +1,3 @@
 # Sudoku-Solver
+
+This is a basic command line application of Sudoku.I'll try to implement this through GUI in future...
